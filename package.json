@@ -1,0 +1,13 @@
+{
+  "name": "jstack-fundamentos-react",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/leomiranda1995/jstack-fundamentos-react.git",
+  "author": "Leonardo da Silva Miranda <leomiranda1995@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/cli": "^7.24.7",
+    "@babel/core": "^7.24.7",
+    "@babel/preset-env": "^7.24.7"
+  }
+}
